@@ -1,6 +1,6 @@
 {
     "name": "reedware/nova-select-toggle-field",
-    "description": "Adds Laravel Nova select field whose value will vary on the contents of another select field.",
+    "description": "Adds a Laravel Nova select field whose value will vary on the contents of another select field.",
     "keywords": [
         "laravel",
         "nova",
