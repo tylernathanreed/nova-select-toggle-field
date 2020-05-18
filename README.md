@@ -156,7 +156,7 @@ public function fields(Request $request)
             ->exceptOnForms()
             ->displayUsing(function($value) {
                 return static::getLabelForAbility($value);
-            }),
+            })
 
   ];
 }
