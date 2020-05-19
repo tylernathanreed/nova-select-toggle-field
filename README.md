@@ -96,7 +96,7 @@ public function fields(Request $request)
 
 ### Complex Example
 
-This section contains a complex example of something that I'm actually using in one of my projects. This is part of my "Permission" resource, where the user can create a new permission, and tie it to a policy method. The "target" drop-down contains the list of resources in my application, and these have been grouped by their resource group. The "toggle" drop-down contains the list of permissable methods from the policy (i.e. "View Any", "Create", etc.), and it only shows the options that relate to the resource specified by the "target" drop-down.
+This section contains a complex example of something that I'm actually using in one of my projects. This is a part of my "Permission" resource, where the user can create a new permission, and tie it to a policy method. The "target" drop-down contains the list of resources in my application, and these have been grouped by their resource group. The "toggle" drop-down contains the list of permissable methods from the policy (i.e. "View Any", "Create", etc.), and it only shows the options that relate to the resource specified by the "target" drop-down.
 
 I'm making use of two other packages here, which are optional for this example:
 
