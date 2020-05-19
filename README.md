@@ -66,7 +66,7 @@ public function fields(Request $request)
 ```
 ### Concrete Example
 
-Here's how you could recreate the example within your project:
+Here's how you could recreate the introduction example within your project:
 
 ```php
 public function fields(Request $request)
