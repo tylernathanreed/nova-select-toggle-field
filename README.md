@@ -1,5 +1,4 @@
-# Laravel Relation Joins
-
+# Nova Select Toggle Field
 [![Latest Stable Version](https://poser.pugx.org/reedware/nova-select-toggle-field/v/stable)](https://packagist.org/packages/reedware/nova-select-toggle-field)
 [![Total Downloads](https://poser.pugx.org/reedware/nova-select-toggle-field/downloads)](https://packagist.org/packages/reedware/nova-select-toggle-field)
 
